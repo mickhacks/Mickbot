@@ -1,0 +1,2 @@
+# Mickbot
+bot for discord
